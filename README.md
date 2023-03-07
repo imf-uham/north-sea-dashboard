@@ -3,6 +3,8 @@
 
 # North Sea Dashboard - an iMARSYS3 student project
 
+Weblink to dashboard: <https://imf-uham.github.io/north-sea-dashboard/>
+
 This dashboard is the outcome of an open science project carried out by
 students as part of a data science course (*iMARSYS3 - Data handling &
 visualization*) within their Master’s program [MARSYS-MARine EcoSYStem

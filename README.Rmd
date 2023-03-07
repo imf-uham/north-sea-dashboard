@@ -10,6 +10,8 @@ knitr::opts_chunk$set(echo = TRUE)
 
 # North Sea Dashboard - an iMARSYS3 student project
 
+Weblink to dashboard: [https://imf-uham.github.io/north-sea-dashboard/](https://imf-uham.github.io/north-sea-dashboard/)
+
 This dashboard is the outcome of an open science project carried out by students as part of a data science course (*iMARSYS3 - Data handling & visualization*) within their Master's program [MARSYS-MARine EcoSYStem and Fishery Sciences](https://www.biologie.uni-hamburg.de/en/studium/master/marine-oekosystem-und-fischereiwissenschaften.html) at the [Institute of Marine Ecosystem and Fishery Science](https://www.biologie.uni-hamburg.de/en/einrichtungen/imf.html) (IMF).
 
 All the data visualized in this dashboard are publicly available and were downloaded from the following databases:
